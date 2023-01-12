@@ -1,5 +1,9 @@
 @import '../assets/swiper-bundle.min.css';
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @font-face {
   font-family: Aspekta;
   font-weight: 350;
