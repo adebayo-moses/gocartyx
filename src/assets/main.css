@@ -1,7 +1,7 @@
 @import '../assets/swiper-bundle.min.css';
-@import '../assets/aos.css';
-
-@tailwind base;
+/* @import '../assets/aos.css';
+ */
+@import 'https://unpkg.com/aos@2.3.1/dist/aos.css' @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
