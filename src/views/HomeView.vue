@@ -1,5 +1,14 @@
-<script setup></script>
+<script setup>
+import TheHeader from '../components/TheHeader.vue';
+// export default {
+//   components: {
+//     TheHeader,
+//   },
+// };
+</script>
 
 <template>
-  <main></main>
+  <main>
+    <TheHeader />
+  </main>
 </template>
