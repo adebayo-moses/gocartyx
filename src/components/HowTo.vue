@@ -24,14 +24,14 @@
               <div class="x">
                 <img
                   class="w j q is io m ts rk f_"
-                  src="images/logos-illustration.svg"
+                  src="../assets/logos-illustration.svg"
                   width="594"
                   height="639"
                   aria-hidden="true"
                 />
                 <img
                   class=""
-                  src="images/logos.png"
+                  src="../assets/logos.png"
                   width="720"
                   height="283"
                   alt="Logos"

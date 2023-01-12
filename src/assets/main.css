@@ -1,4 +1,5 @@
 @import '../assets/swiper-bundle.min.css';
+@import '../assets/aos.css';
 
 @tailwind base;
 @tailwind components;

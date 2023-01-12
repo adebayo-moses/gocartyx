@@ -5,6 +5,9 @@ import FirstSection from '../components/FirstSection.vue';
 import SecondSection from '../components/SecondSection.vue';
 import ThirdSection from '../components/ThirdSection.vue';
 import CashBack from '../components/CashBack.vue';
+import HowTo from '../components/HowTo.vue';
+import BottomCTA from '../components/BottomCTA.vue';
+import TheFooter from '../components/TheFooter.vue';
 </script>
 
 <template>
@@ -15,5 +18,8 @@ import CashBack from '../components/CashBack.vue';
     <SecondSection></SecondSection>
     <ThirdSection></ThirdSection>
     <CashBack />
+    <HowTo />
+    <BottomCTA />
+    <TheFooter />
   </main>
 </template>
