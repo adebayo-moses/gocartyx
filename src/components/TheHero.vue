@@ -26,6 +26,64 @@
                   cash.</span
                 >
               </h1>
+              <p class="ap fo tg" data-aos="fade-up" data-aos-delay="200">
+                GoCartyX is the most efficient and reliable exchange
+                <br class="hidden ps" />
+                for buying/selling of cryptos and GiftCards in Nigeria.
+              </p>
+
+              <!-- Buttons -->
+              <div
+                class="rq tf hu hs hc p_ st hp hh ty hj"
+                data-aos="fade-up"
+                data-aos-delay="300"
+              >
+                <div>
+                  <a class="r rp rn ib fr of ci cq fq" href="/l">
+                    Get Started
+                    <span class="aq fi cz ln ls la nr">
+                      <svg
+                        class="uo"
+                        width="12"
+                        height="10"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <path
+                          d="M1 6.002h7.586L6.293 8.295a1 1 0 1 0 1.414 1.414l4-4a1 1 0 0 0 0-1.416l-4-4a1 1 0 0 0-1.414 1.416l2.293 2.293H1a1 1 0 1 0 0 2Z"
+                        ></path>
+                      </svg>
+                    </span>
+                  </a>
+                </div>
+                <div>
+                  <a
+                    class="r rp rn ib fs og ox cs fq x lc lh lv lm lp ld"
+                    href="/"
+                    >Quick Trade</a
+                  >
+                </div>
+              </div>
+            </div>
+
+            <!-- Image -->
+            <div class="rz tf ph hv hm hg no hq hj">
+              <div class="x nu na hk">
+                <img
+                  class="w j q is io nf hz m ts rk f_"
+                  src="../assets/hero-illustration.svg"
+                  width="960"
+                  height="960"
+                  aria-hidden="true"
+                />
+                <img
+                  src="../assets/hero-image.png"
+                  class="ph"
+                  width="548"
+                  height="545"
+                  alt="Credit card"
+                  data-aos="fade-up"
+                />
+              </div>
             </div>
           </div>
         </div>
