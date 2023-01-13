@@ -16,9 +16,9 @@
         </div>
 
         <!-- navigation for desktop  -->
-        <nav class="rt il">
+        <nav class="rt ii">
           <!-- sign in links for desktop  -->
-          <ul class="rt il iw im ib">
+          <ul class="rt ii iw im ib">
             <li class="nn">
               <a class="r rn ib fr of ci cq fq" href="/login"
                 >Get Started

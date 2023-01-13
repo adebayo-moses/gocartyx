@@ -39,7 +39,7 @@
                 data-aos-delay="300"
               >
                 <div>
-                  <a class="r rp rn ib fr of ci cq fq" href="/l">
+                  <a class="r rp rn ib fr of ci cq fq" href="/">
                     Get Started
                     <span class="aq fi cz ln ls la nr">
                       <svg
