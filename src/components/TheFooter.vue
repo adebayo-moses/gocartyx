@@ -19,23 +19,13 @@
         <!-- 1st block -->
         <div class="ht dv ve">
           <!-- Logo -->
-          <a class="nz" href="index-2.html" aria-label="Cruip">
-            <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
-              <g fill-rule="nonzero" fill="none">
-                <g class="un" transform="translate(3 3)">
-                  <circle cx="5" cy="5" r="5"></circle>
-                  <circle cx="19" cy="5" r="5"></circle>
-                  <circle cx="5" cy="19" r="5"></circle>
-                  <circle cx="19" cy="19" r="5"></circle>
-                </g>
-                <g class="ur">
-                  <circle cx="15" cy="5" r="5"></circle>
-                  <circle cx="25" cy="15" r="5"></circle>
-                  <circle cx="15" cy="25" r="5"></circle>
-                  <circle cx="5" cy="15" r="5"></circle>
-                </g>
-              </g>
-            </svg>
+          <a class="nz" href="/l" aria-label="Cruip">
+            <img
+              src="../assets/gocarty-light.png"
+              height="40"
+              width="40"
+              alt=""
+            />
           </a>
         </div>
 
