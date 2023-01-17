@@ -8,6 +8,7 @@ import CashBack from '../components/CashBack.vue';
 import HowTo from '../components/HowTo.vue';
 import BottomCTA from '../components/BottomCTA.vue';
 import TheFooter from '../components/TheFooter.vue';
+import Reviews from '../components/Reviews.vue';
 </script>
 
 <template>
@@ -19,6 +20,7 @@ import TheFooter from '../components/TheFooter.vue';
     <ThirdSection></ThirdSection>
     <CashBack />
     <HowTo />
+    <Reviews />
     <BottomCTA />
     <TheFooter />
   </main>
