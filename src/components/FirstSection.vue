@@ -29,7 +29,7 @@
                 </g>
               </svg>
             </div>
-            <h4 class="ad ab ne">Create custom cards</h4>
+            <h4 class="ad ab ne">Sell your digital assets</h4>
             <p class="fe">
               Create cards that work exactly as you configured them. Make
               real-time decisions on charges and spendings.
@@ -64,7 +64,7 @@
                 </g>
               </svg>
             </div>
-            <h4 class="ad ab ne">Create custom cards</h4>
+            <h4 class="ad ab ne">Trade in your giftcards</h4>
             <p class="fe">
               Create cards that work exactly as you configured them. Make
               real-time decisions on charges and spendings.
@@ -98,7 +98,7 @@
                 </g>
               </svg>
             </div>
-            <h4 class="ad ab ne">Create custom cards</h4>
+            <h4 class="ad ab ne">Quick Pickup from friends.</h4>
             <p class="fe">
               Create cards that work exactly as you configured them. Make
               real-time decisions on charges and spendings.
