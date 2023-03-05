@@ -20,12 +20,12 @@
         <div class="ht dv ve">
           <!-- Logo -->
           <a class="nz" href="/l" aria-label="Cruip">
-            <img
+            <!-- <img
               src="../assets/gocarty-light.png"
               height="40"
               width="40"
               alt=""
-            />
+            /> -->
           </a>
         </div>
 
